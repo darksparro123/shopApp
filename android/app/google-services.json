@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "506592079480",
+    "project_id": "shopapp-6b755",
+    "storage_bucket": "shopapp-6b755.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506592079480:android:fa7dac724eb41d3315078d",
+        "android_client_info": {
+          "package_name": "com.arcTouchApps.shopApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506592079480-sp1kfqhe6bk3d3mf4fb83sdvepdoi1kb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arcTouchApps.shopApp",
+            "certificate_hash": "5556431426842fb3f49916b2b0cc4c619b5846da"
+          }
+        },
+        {
+          "client_id": "506592079480-7g4njvh65osjhgle3fcepulq34fq3r6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEa4cw0sHw2WUsivvdpwurpWnmFUrO-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506592079480-7g4njvh65osjhgle3fcepulq34fq3r6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
